@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+.carte{
+    text-align: center;
+}
+
+.img{
+    margin: 5%;
+    width: 30%;
+}
+
+.price{
+    text-align: left;
+    float: left;
+    margin-top: 21%;
+    margin-left: 2%;
+} 
+
+
